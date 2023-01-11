@@ -1,0 +1,24 @@
+body{
+    margin: 2%;
+}
+
+/***** tag selectors *****/
+h2{
+    color:navy;
+}
+/**** class selectors****/
+
+.images img{
+    height: 35%;
+    width: 25%;
+    border-radius: 10%;
+}
+
+ul.l1{
+    list-style-type:square ;
+}
+/**** ID selectors****/
+#heading{
+    color:blue;
+
+}
